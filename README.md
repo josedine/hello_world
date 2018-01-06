@@ -1,2 +1,2 @@
 # hello_world
-My first repository. GitHub training
+My first repository. Learning hot to use GitHub 
